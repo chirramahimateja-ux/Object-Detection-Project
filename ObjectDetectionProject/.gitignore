@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+uploads/
+runs/
+static/outputs/
+
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
